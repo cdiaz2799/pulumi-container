@@ -1,0 +1,8 @@
+isort>=5.12.0
+blue>=0.9.1
+pylint
+pulumi>=3.0.0,<4.0.0
+pulumi-gcp>=6.0.0,<7.0.0
+pulumi-digitalocean>=4.22.0
+pulumi-kubernetes>=4.0.0,<5.0.0
+pulumi-cloudflare>=5.12.0
